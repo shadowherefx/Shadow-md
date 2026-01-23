@@ -1,120 +1,88 @@
-# 🤖 Dex Bot
-
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+# 🤖 DEX-BOT ULTRA MD 2026 🔥
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Dex-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Shyam" alt="Typing SVG" />
-  </a> 
-</div> 
-
-<div align="center"> 
-  <a href="https://youtube.com/@mr_shyam_hacker"> 
-    <img src="https://github.com/Dexsam07/DEX-BOT/fork/blob/main/assets/bot_image.jpg" alt="Dex Bot" height="300"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=00ff00&center=true&width=1000&height=120&lines=DEX-BOT+ULTRA;Multi+Device+WhatsApp+Bot;2026+Latest+Edition;Powered+by+Baileys+v7+;Coded+By+Dex+Shyam" alt="Typing SVG" />
   </a> 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Dexsam07?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Dexsam07/Dexbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/Dexsam07/DEX-BOT-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/Dexsam07/DEX-BOT-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="Dex Bot Ultra" height="350">
 </div>
-
----
-<div>
-  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Dexbot" target="_blank">
-    <img src="assets/thor.png" alt="ThorData Proxies" width="100%" />
-  </a>
-</div>
-
-<br>
-
-<div align="left">
-  <b>Thordata: Get Reliable Global Proxies at an Unbeatable Value.</b><br><br>
-  One-click data collection with enterprise-grade stability and compliance.<br>
-  Join thousands of developers using ThorData for high-scale operations.<br><br>
-  🎁 <b>Exclusive Offer:</b> Sign up for a free Residential Proxy trial and 2,000 <b>FREE SERP API calls!</b>
-</div>
-
-<br>
-
-<div align="left">
-  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Dexbot" target="_blank">
-    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Try now"/>
-  </a>
-</div>
-
-
-## 🚀 Steps to Deploy Bot
-
-### Step 1: Fork the Repository
-
-Click the button below to fork the Dex Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/Dexsam07/DEX-BOT-MD/fork/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
+  <img src="https://img.shields.io/github/stars/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=green" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=blue" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=yellow" alt="Watchers"/>
+  <img src="https://img.shields.io/github/last-commit/Dexsam07/DEX-BOT-MD?style=for-the-badge&color=red" alt="Last Commit"/>
 </div>
 
----
+## 🚀 Ultra Features (200+ Commands)
 
-### Step 2: Get Pair Code
+### Group Management
+- `.tagall` / `.everyone` – Tag all members
+- `.mute` / `.unmute` – Mute/Unmute group
+- `.antidelete` / `.antiviewonce` – Anti-delete & view once saver
+- `.warn` / `.unwarn` / `.kick` / `.add` – Member management
+- `.antilink` / `.antibadword` / `.antinsfw` – Advanced protection
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+### AI & Smart Features
+- `.ai` / `.chatgpt` – Chat with GPT-4o / Gemini AI
+- `.img` / `.generate` – AI image generation (Flux / DALL-E)
+- `.summarize` – Summarize long messages
+- `.translate` – Auto translate any language
 
-<div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
+### Media & Fun
+- `.song` / `.video` / `.yt` – YouTube downloader (audio/video)
+- `.sticker` / `.toimg` / `.togif` – Sticker tools
+- `.tts` / `.voice` – Text to speech (multiple voices)
+- `.meme` / `.quote` / `.joke` – Fun commands
+- `.tictactoe` / `.chess` – Interactive games
 
+### Utility & Advanced
+- `.ping` / `.speed` – Check bot speed
+- `.system` / `.stats` – Bot info & uptime
+- `.backup` – Session backup
+- `.restart` / `.update` – Self update & restart
+- Anti-ban system (random delays, human-like typing)
 
-### After getting creds.json file, upload it to session folder
+### Anti-Ban Protection (2026 Safe)
+- Latest **@whiskeysockets/baileys@v7+**
+- Random typing delays
+- Proxy support
+- No spam detection
+- Base64 secure session
 
----
+## ⚡ Steps to Deploy Ultra Bot
 
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
-<div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
-
-### Deploy on VPS
-
-<div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
-    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
-  </a>
-</div>
-
-### Deploy on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+### Step 1: Fork This Repo
+<a href="https://github.com/Dexsam07/DEX-BOT-MD/fork">
+  <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge&logo=github" alt="Fork"/>
 </a>
-</div>
 
-### Join Us
+### Step 2: Get Pair Code (Fast & Easy)
+<a href="https://knight-bot-paircode.onrender.com">
+  <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-FAST-ff4d4d?style=for-the-badge" alt="Pair Code"/>
+</a>
 
-<div align="center">
-  <a href="https://t.me/dexbotmd">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://chat.whatsapp.com/IOEbmfzOD6d9TCjdX5Fi3B">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
+- Scan QR ya Pair Code se connect karo
+- `creds.json` milega → `session` folder mein upload kar do
 
----
+### Step 3: Deploy Options
+| Platform       | Badge                                                                 | Link |
+|----------------|-----------------------------------------------------------------------|------|
+| **Render**     | <img src="https://img.shields.io/badge/Deploy%20on%20Render-46a2f1?style=for-the-badge&logo=render" /> | https://render.com |
+| **Railway**    | <img src="https://img.shields.io/badge/Deploy%20on%20Railway-131313?style=for-the-badge&logo=railway" /> | https://railway.app |
+| **VPS (Petrosky)** | <img src="https://img.shields.io/badge/Petrosky%20VPS-0078E7?style=for-the-badge" /> | https://client.petrosky.io/aff.php?aff=394 |
+| **Katabump Panel** | <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server" /> | https://dashboard.katabump.com |
+| **Heroku (Anti-Ban)** | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku" /> | Use with caution |
+
+### Step 4: Run Commands
+```bash
+git pull
+npm install
+npm install @whiskeysockets/baileys@latest --save
+node index.js
 
 ## ⚙️ Features
 
@@ -222,4 +190,4 @@ Copyright (c) 2026 Shyam. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
-- Other libraries as listed in package.jsBot
+- Other libraries as listed in package.json
