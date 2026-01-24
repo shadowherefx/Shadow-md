@@ -3,9 +3,11 @@ const settings = require('../settings.js');
 
 function formatTime(seconds) {
     const days = Math.floor(seconds / (24 * 60 * 60));
-    seconds = seconds % (24 * 60 * 60);
-    const hours = Math.floor(seconds / (60 * 60));
-    seconds = seconds % (60 * 60);
+    seconds %= (24 * 60 * 60);
+    
+    const hours = Math.floor(seconds / (3600));
+    seconds %= 3600;
+    
     const minutes = Math.floor(seconds / 60);
     seconds = Math.floor(seconds % 60);
 
@@ -23,24 +25,40 @@ async function pingCommand(sock, chatId, message) {
         const start = Date.now();
         await sock.sendMessage(chatId, { text: 'Pong!' }, { quoted: message });
         const end = Date.now();
+
+        // Ping ko round-trip time ka half maana jaata hai (better accuracy)
         const ping = Math.round((end - start) / 2);
 
         const uptimeInSeconds = process.uptime();
         const uptimeFormatted = formatTime(uptimeInSeconds);
 
         const botInfo = `
-┏━━〔 🤖 DEX-BOT-MD 〕━━┓
-┃ 🚀 Ping     : ${ping} ms
-┃ ⏱️ Uptime   : ${uptimeFormatted}
-┃ 🔖 Version  : v${settings.version}
-┗━━━━━━━━━━━━━━━━━━━┛`.trim();
+╔════════════════════════════════════╗
+║         SHYAM-42-MODE            ║
+║     DEX-BOT-MD v${settings.version}     ║
+╠════════════════════════════════════╣
+║  PING  : ${ping} ms                ║
+║  UPTIME: ${uptimeFormatted}        ║
+║                                    ║
+║  ᴰᵉˣ-ᴮᵒᵗ-ᴹᴰ ᵏᵉ ᵘᵖᵃʳ ᴬᵃʲ ᵀᵃᵏ        ║
+║  ᴷᴼᴵ ᴮᴼᵀ ᴺᴬᴴᴵᴺ ᴮᴬᴺᴬʸᴬ ʜᴀɪ..      ║
+║  😈🔥 𝑫𝑬𝑿-𝑺𝑯𝒀𝑨𝑴 𝙇𝙀𝙑𝙀𝙇-𝟎𝟕 🔥😈      ║
+╚════════════════════════════════════╝`.trim();
 
-        // Reply to the original message with the bot info
-        await sock.sendMessage(chatId, { text: botInfo},{ quoted: message });
+        // Original message ko quote karke reply
+        await sock.sendMessage(chatId, { 
+            text: botInfo 
+        }, { 
+            quoted: message 
+        });
 
     } catch (error) {
         console.error('Error in ping command:', error);
-        await sock.sendMessage(chatId, { text: '❌ Failed to get bot status.' });
+        await sock.sendMessage(chatId, { 
+            text: '❌ Failed to get bot status.' 
+        }, { 
+            quoted: message 
+        });
     }
 }
 
