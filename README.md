@@ -6,8 +6,14 @@
   </a> 
 </div>
 
+## 🎥 Demo Video
+
+Watch the bot in action:
+
 <div align="center">
-  <img src="https://d.uguu.se/OxUEDtZf.mp4" alt="Dex Bot Ultra" height="350">
+  <video src="https://d.uguu.se/OxUEDtZf.mp4" controls width="600"></video>
+  <br>
+  <em>DEX-BOT-MD Demo - Multi-device WhatsApp Bot</em>
 </div>
 
 <div align="center">
