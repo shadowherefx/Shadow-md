@@ -27,7 +27,7 @@ async function characterCommand(sock, chatId, message) {
         try {
             profilePic = await sock.profilePictureUrl(userToAnalyze, 'image');
         } catch {
-            profilePic = 'https://i.imgur.com/2wzGhpF.jpeg'; // Default image if no profile pic
+            profilePic = 'https://o.uguu.se/dMYJabcv.jpg'; // Default image if no profile pic
         }
 
         const traits = [
