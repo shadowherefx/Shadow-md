@@ -2,12 +2,12 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=00ff00&center=true&width=1000&height=120&lines=DEX-BOT+ULTRA;Multi+Device+WhatsApp+Bot;2026+Latest+Edition;Powered+by+Baileys+v7+;Coded+By+Dex+Shyam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=00ff00&center=true&width=1000&height=120&lines=DEX-BOT+MD;Multi+Device+WhatsApp+Bot;2026+Latest+Edition;Powered+by+Baileys+v7+;Coded+By+Dex+Shyam" alt="Typing SVG" />
   </a> 
 </div>
 
 <div align="center">
-  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="Dex Bot Ultra" height="350">
+  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="Dex Bot Md" height="350">
 </div>
 
 <div align="center">
@@ -160,7 +160,7 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 
 - [DEX_SHAYAM](https://github.com/Dexsam07)
 - [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair cod
+- [DEX-SHYAM-HA4KR](https://github.com/Dexsam07) for pair cod
 - [Dgxeon](https://github.com/Dgxeon) for pair code
 
 ---
