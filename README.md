@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=DEX-BOT%20ULTRA%202026&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE+FORK+%26+STAR+⭐+DEX-BOT-MD" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE+FORK+%26+STAR+⭐+DEX-BOT" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -33,7 +33,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+DEX-BOT+ULTRA+2026;🔥+THE+ULTIMATE+WHATSAPP+BOT;💻+DEVELOPED+BY+DEX+SHYAM;🚀+NEXT-GEN+MULTI-DEVICE;🌈+FAST+⚡+SECURE+🔒+POWERFUL+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+DEX-BOT+ULTRA+2026;🔥+THE+ULTIMATE+WHATSAPP+BOT;💻+DEVELOPED+BY+DEX+SHYAM;🚀+NEXT-GEN+MULTI-DEVICE;🌈+FAST+⚡+SECURE+🔒+POWERFUL+✅" alt="Typing Animation">
 </h1>
 
 </div>
@@ -58,7 +58,7 @@
 | **Cloud Backup**          | ✅     | Auto-backup sessions & data |
 
 <p align="center">
-<a href="https://git.io/typing-svg">
+<a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=DEX-BOT+ULTRA;DEX+SHYAM;THANKS+FOR+USING" alt="Typing SVG" />
 </a>
 </p>
@@ -67,7 +67,9 @@
 
 <div align='center'>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢" alt="Typing SVG" />
+</a>
 
 <a href="https://github.com/Dexsam07/DEX-BOT-MD/fork">
   <img src="https://img.shields.io/badge/FORK+NOW-success?style=for-the-badge&logo=github&color=4c1" alt="Fork DEX-BOT-MD" />
@@ -112,10 +114,6 @@
       <td><a href="https://host.talkdrove.com/dashboard/deploy-bot/75" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white"/></a></td>
       <td><a href="https://bot-hosting.net/?aff=1097457675723341836" target="_blank"><img src="https://img.shields.io/badge/BotHosting-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a></td>
     </tr>
-    <tr>
-      <td><a href="https://dash.hmvhostings.com/register?ref=GKTSTyFY" target="_blank"><img src="https://img.shields.io/badge/HMVHosting-00ACC1?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></td>
-      <td><a href="https://dashboard.katabump.com/auth/login#203630" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge&logo=codeberg&logoColor=white"/></a></td>
-    </tr>
   </table>
 </div>
 
@@ -155,7 +153,7 @@
 **Summary:**
 💡 **CREDITS & THANKS**
 
-> Built with ❤️ by **Dex Shyam Chaudhari**
+> Built with ❤️ by **Dex Shyam**
 
 - 👤 [Dexsam07](https://github.com/Dexsam07) — Creator & Maintainer  
   - Ultra optimizations, AI integration, 250+ commands, anti-ban system
@@ -165,7 +163,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 **DEX-BOT-MD STATUS 2026**
+## 🤖 **DEX-BOT STATUS 2026**
 
 ```diff
 + Project Status: Active & Ultra Optimized
