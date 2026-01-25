@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=DEX-BOT%20ULTRA%202026&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=DEX-BOT-MD%20ULTRA%202026&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
 </div>
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -7,7 +7,7 @@
 </a>
 
 <div align="center">
-  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="DEX-BOT ULTRA" width="380"/>
+  <img src="https://github.com/Dexsam07/DEX-BOT-MD/raw/main/assets/bot_image.jpg" alt="DEX-BOT-MD ULTRA" width="380"/>
 </div>
 
 <!-- 📊 STATS & HERO ANIMATION -->
@@ -33,7 +33,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+DEX-BOT+ULTRA+2026;🔥+THE+ULTIMATE+WHATSAPP+BOT;💻+DEVELOPED+BY+DEX+SHYAM;🚀+NEXT-GEN+MULTI-DEVICE;🌈+FAST+⚡+SECURE+🔒+POWERFUL+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+DEX-BOT+ULTRA+2026;🔥+THE+ULTIMATE+WHATSAPP+BOT;💻+DEVELOPED+BY+DEX+SHYAM+CHAUDHARI;🚀+NEXT-GEN+MULTI-DEVICE;🌈+FAST+⚡+SECURE+🔒+POWERFUL+✅" alt="Typing Animation">
 </h1>
 
 </div>
@@ -153,7 +153,7 @@
 **Summary:**
 💡 **CREDITS & THANKS**
 
-> Built with ❤️ by **Dex Shyam**
+> Built with ❤️ by **Dex Shyam Chaudhari**
 
 - 👤 [Dexsam07](https://github.com/Dexsam07) — Creator & Maintainer  
   - Ultra optimizations, AI integration, 250+ commands, anti-ban system
@@ -163,7 +163,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 **DEX-BOT STATUS 2026**
+## 🤖 **DEX-BOT-MD STATUS 2026**
 
 ```diff
 + Project Status: Active & Ultra Optimized
