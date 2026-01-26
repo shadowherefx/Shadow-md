@@ -73,7 +73,7 @@
 - Scan QR ya Pair Code se connect karo
 - `creds.json` milega → `session` folder mein upload kar do
 
-### Step 3: Deploy Options
+### Step 4: Deploy Options
 | Platform       | Badge                                                                 | Link |
 |----------------|-----------------------------------------------------------------------|------|
 | **Render**     | <img src="https://img.shields.io/badge/Deploy%20on%20Render-46a2f1?style=for-the-badge&logo=render" /> | https://render.com |
@@ -82,7 +82,7 @@
 | **Katabump Panel** | <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server" /> | https://dashboard.katabump.com |
 | **Heroku (Anti-Ban)** | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku" /> | Use with caution |
 
-### Step 4: Run Commands
+### Step 5: Run Commands
 ```bash
 git pull
 npm install
