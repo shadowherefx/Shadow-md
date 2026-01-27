@@ -19,24 +19,6 @@
 
 ---
 
-## 🎥 Quick Demo Video (Step-by-Step Deployment Tutorial)
-
-Watch this full tutorial to deploy DEX-BOT-MD in minutes – no coding needed! Shows pair code generation, session upload, free hosting (Render/Railway/etc.), and 24/7 running setup.
-
-<p align="center">
-  <a href="https://youtu.be/Hmp17yyU9Xc">
-    <img src="https://i.ibb.co/r2HgZSc/IMG-20260125-WA0015.jpg" alt="DEX-BOT-MD Deployment Tutorial Thumbnail" width="560" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Watch%20Full%20Tutorial%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
-  </a>
-</p>
-
-**Video Title:** WhatsApp bot Last method free bot Dex-Bot-md 24*7 working Easiest method to deploy  
-**Channel:** TX gaming lover  
-**Duration/Highlights:** Step-by-step guide for Dex-Bot-MD setup, GitHub clone, pair code, free hosting, and anti-ban tips.
-
----
-
 ## ✨ Ultra Premium Features (200+ Commands)
 
 ### 🛡️ Group Management (Pro Level)
@@ -73,6 +55,33 @@ Watch this full tutorial to deploy DEX-BOT-MD in minutes – no coding needed! S
 - Built-in proxy support
 - No spam detection triggers
 - Base64 + encrypted session files
+
+---
+
+## 🎥 Quick Demo Video (Full Deployment Tutorial)
+Watch this complete step-by-step video tutorial on how to deploy **DEX-BOT-MD** for free and run 24/7 (Easiest method – no coding needed!).
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Hmp17yyU9Xc">
+    <img src="https://i.ibb.co/r2HgZSc/IMG-20260125-WA0015.jpg" alt="DEX-BOT-MD Deployment Tutorial Thumbnail" width="560" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Hmp17yyU9Xc">
+    <img src="https://img.shields.io/badge/Watch%20Full%20Tutorial%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
+
+**Video Highlights:**
+- Pair code generation & QR scanning
+- Download bot files from GitHub
+- Free hosting setup (Render, etc.)
+- Upload creds.json & run bot
+- Test commands like `.menu`
+- Make it 24/7 online
+
+Channel: TX gaming lover | Uploaded: Jan 2026
 
 ---
 
@@ -120,10 +129,11 @@ Deploy DEX-BOT-MD for **free** (or very low usage) on these platforms. Most supp
 </p>
 
 **Quick Tips for Free Hosting:**
-- **Render/Railway/Koyeb/Fly.io** → Best for 24/7 (free tier limits, sometimes card verification)
-- **KataBump & Bot-Hosting.net** → Made for WhatsApp bots (free/low-coin panels, easy creds.json upload)
-- **Replit/Glitch** → Testing ke liye best (sleep after inactivity)
-- **Vercel** → If bot has web/API part (serverless, tweaks needed for long-running)
+- Render/Railway/Koyeb/Fly.io → Best for 24/7 (free tier limits, sometimes card verification)
+- KataBump & Bot-Hosting.net → WhatsApp bot specialized panels (upload creds + low/zero coins)
+- Replit/Glitch → Testing (may sleep on inactivity)
+- Vercel → If bot has web/API (serverless, tweaks needed for long-running)
+- Always upload `creds.json` to session folder after pairing.
 
 ---
 
@@ -147,13 +157,13 @@ Deploy DEX-BOT-MD for **free** (or very low usage) on these platforms. Most supp
 </p>
 
 ### 3. **Upload Session**
-- Pair karne ke baad → `creds.json` download karo
-- Hosting mein `session` folder (ya root) mein upload kar do
+- After pairing → Download `creds.json`
+- Upload to `session` folder (or root) in hosting
 
-### 4. **One-Click Deploy (Recommended)**
-Upar ke buttons use karo ya platform ke docs follow karo.
+### 4. **One-Click Deploy**
+Use buttons above.
 
-### 5. **Manual Setup (VPS / Local)**
+### 5. **Manual Setup (VPS/Local)**
 ```bash
 git clone https://github.com/Dexsam07/DEX-BOT-MD.git
 cd DEX-BOT-MD
@@ -167,11 +177,10 @@ PM2 ready
 Multi-device support
 Encrypted session storage
 📜 License & Legal MIT License – but with strict conditions:
-For educational purposes only
-Not affiliated with WhatsApp in any way
-Using this bot may result in account ban. Use at your own risk.
-Do NOT use for spam, bulk messaging, or illegal activities
-Developers are not responsible for any bans or consequences
-❤️ Support the Project
-Developed with ❤️ by Dex Shyam
-© 2026 DEX-BOT-MD – All Rights kiya
+For educational purposes only. Not affiliated with WhatsApp.
+Using this may cause account ban. Use at your own risk.
+No spam/bulk/illegal use. Developers not responsible for bans.
+💗 Support the Project
+Developed with 💗 by Dex Shyam
+© 2026 DEX-BOT-MD – All Rights Reserved
+💗🎉 🚀
