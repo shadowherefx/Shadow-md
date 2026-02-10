@@ -1,6 +1,6 @@
 {
   "name": "Dex-Bot-md",
-  "version": "3.0.1",
+  "version": "1.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
